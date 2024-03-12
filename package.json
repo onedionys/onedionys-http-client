@@ -1,6 +1,6 @@
 {
   "name": "onedionys-http-client",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (HTTP Client) - A package for making HTTP requests to a server with easy-to-understand syntax.",
   "main": "src/http-client.js",
   "directories": {
